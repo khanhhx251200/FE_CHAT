@@ -1,0 +1,10 @@
+{
+    "BACKEND_URL": "http://118.71.99.243:8080",
+    "AUTHEN_CAS": false,
+    "SCREEN_INPUT_VANBAN_DI ":true,
+    "SCREEN_INPUT_VANBAN_DEN ":true,
+    "CONFIG_THEME": false,
+    "PORTAL_URL": "http://localhost:4200/",
+    "EMAIL_URL": "http://localhost:4200/",
+    "DOWLOAD_TYPE_PDF" : true
+}
